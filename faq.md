@@ -1,5 +1,7 @@
-= FreeFeed FAQ =
-
+---
+layout: page
+title: FreeFeed FAQ
+permalink: /faq/
 ---
 
 **Q:** What is FreeFeed?
